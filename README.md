@@ -1,4 +1,4 @@
-# Touch Sensor LED Control using Arduino Mega
+# Controlling-an-LED-using-touch-sensor-in-Arduino-Mega
 
 This repository contains code to control an LED using a touch sensor connected to an Arduino Mega board. When the touch sensor is activated, the LED lights up, and when the sensor is inactive, the LED turns off.
 
